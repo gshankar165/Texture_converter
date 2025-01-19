@@ -3,7 +3,7 @@ This document will explain usage of render man tex converter tool
 
 
 What is Tex converter?
-Render man requires .tex files for rendering any image file. This tool generates .tex files of any image file. The tool is developed by TD Girijashankar Senapati, Academy cloud tech team.
+Render man requires .tex files for rendering any image file. This tool generates .tex files of any image file. 
 
 
 
